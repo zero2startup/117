@@ -1,0 +1,10 @@
+{
+    "name": "117",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "scratch",
+    "executable": "117.xml",
+    "author": "zero2startup",
+    "minimum_firmware_version": 42
+}
